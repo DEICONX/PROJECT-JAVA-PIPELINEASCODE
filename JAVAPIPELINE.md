@@ -304,7 +304,7 @@ Here we need multiple servers for each individual tool we call it **distributed 
 >
 > My pipeline script:
 
-```groovy
+
 pipeline {
     agent { label 'sonar' }
 
